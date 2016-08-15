@@ -59,7 +59,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <my-app>Tunggu Sebentar...</my-app>
+                <!-- <div class="title">Laravel 5</div> -->
+                <my-app><div class="title">Tunggu Sebentar...</div></my-app>
             </div>
         </div>
     </body>

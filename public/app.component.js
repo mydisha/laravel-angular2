@@ -24,7 +24,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 AppComponent = __decorate([
                     core_1.Component({
                         selector: 'my-app',
-                        template: '<h1>Angular 2 + Laravel</h1>'
+                        template: '<div class="title">Laravel 5.2 + AngularJS 2</div>'
                     }), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);
